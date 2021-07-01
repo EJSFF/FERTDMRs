@@ -64,3 +64,8 @@ The plots below show the range of values for these discharges, with points scale
  
 <iframe title="Nitrogen Manufacturing Average Daily Discharge (kg/day)" aria-label="chart" id="datawrapper-chart-b73iz" src="https://datawrapper.dwcdn.net/b73iz/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> 
+ 
+ 
+Because the timescale of the measurement and limits vary across permits (daily, monthly, etc.), one possibility may be to look at ratio of discharge to limit in standard units. Below, for all observations of N discharges across the permits, I plotted the discharge value in standard units (as reported by EPA) on the y-axis and the limit value in standard units (as reported by EPA) on the x-axis. Points above the dashed line are in excess of the limit, while points below the line show the range of discharges below the limit.
+ 
+![PLOT](https://github.com/EJSFF/FERTDMRs/blob/gh-pages/DMRVLIMIT.jpeg)
