@@ -42,7 +42,7 @@ Of the 249 pollutants in the full dataset, I selected any observations that matc
 > 8.	Nitrogen, nitrate total [as N]
 > 9.	Nitrogen, organic total [as N]
 > 10.	Nitrite Plus Nitrate Total
-> > 11.	Nitrogen, Kjeldahl, total [as N]
+> 11.	Nitrogen, Kjeldahl, total [as N]
 > 12.	Nitrogen, nitrite total [as N]
 > 13.	Nitrogen, ammonia, total [as NH3]
 > 14.	Nitrogen, ammonia total [as NH4]
