@@ -66,7 +66,7 @@ The plots below show the range of values for these discharges, with points scale
 </script> 
  
  
-Because the timescale of the measurement and limits vary across permits (daily, monthly, etc.), one possibility may be to look at ratio of discharge to limit in standard units. Below, for all observations of N discharges across the permits, I plotted the discharge value in standard units (as reported by EPA) on the y-axis and the limit value in standard units (as reported by EPA) on the x-axis. Points above the dashed line are in excess of the limit, while points below the line show the range of discharges below the limit. *Note that some points had negative discharge values or extreme values >5000, which are not shown here*
+Because the timescale of the measurement and limits vary across permits (daily, monthly, etc.), we would likely want to eventually convert everything to the same timescale? Alternatively, one possibility may be to look at ratio of discharge value to limit value in standard units. Below, for all observations of N discharges across the permits, I plotted the discharge value in standard units (as reported by EPA) on the y-axis and the limit value in standard units (as reported by EPA) on the x-axis. Points above the dashed line are in excess of the limit, while points below the line show the range of discharges below the limit. *Note that some points had negative discharge values or extreme values >5000, which are not shown here*
 
  
 ![DMRVLIMIT](https://user-images.githubusercontent.com/72046860/124175209-52ce0c80-da7b-11eb-8e68-1c798907cdf4.jpeg)
