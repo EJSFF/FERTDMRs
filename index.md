@@ -10,9 +10,9 @@ This search yeilds the following permits:
 
 CATEGORY | SIC | NAICS | UNIQUE PERMITS
 ---------|-----|-------|---------------
-Fertilizer (Mixing Only) Manufacturing |2875 |325314 |**373**
-Nitrogenous Fertilizer Manufacturing |2873 |325311 |**82** 
-Phosphatic Fertilizer Manufacturing |874 |325312|**30**
+**Fertilizer (Mixing Only) Manufacturing** |2875 |325314 |**373**
+**Nitrogenous Fertilizer Manufacturing** |2873 |325311 |**82** 
+**Phosphatic Fertilizer Manufacturing** |874 |325312|**30**
 
 Across search terms and facility types, this search yields a total of **485 unique NPDES permits**.
 
