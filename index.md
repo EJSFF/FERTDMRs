@@ -1,4 +1,4 @@
-This page is a summary of data pulled from effluent reports for fertilizer manufacturing. It describes one approach used to filter 485 permits associated with fertilizer manufacturing down to 186 with data, down to 140 with observations of N discharges. This approach can easily be modified to incorporate a different initial set of permits to scan or different pollutants.
+This page is a summary of data pulled from effluent reports for fertilizer manufacturing. It describes one approach used to filter 485 permits associated with fertilizer manufacturing down to 186 with data, down to 143 with observations of N or P discharges. This approach can easily be modified to incorporate a different initial set of permits to scan or different pollutants.
 
 ## 1.	IDENTIFYING NPDES PERMITS ASSOCIATED WITH FERTILIZER MANUFACTURING
 
