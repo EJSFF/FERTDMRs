@@ -30,26 +30,34 @@ Across the 484 permits, this yields 128,655 total observations of 249 different 
 
 I then subset the data for the 186 permits with data to extract observations of N pollutants. *If there are other pollutants of interest — such as phosphorus, I can also pull these out, but for simplicity, I will focus on N for now.*
 
-Of the 249 pollutants in the full dataset, I selected any observations that matched the 14 different parameter names below associated with N pollution:
+Of the 249 pollutants in the full dataset, I selected any observations that matched the 22 different parameter names below associated with N or P pollution:
 
-> 1.	Ammonia nitrogen, total, [as N] 30 day
-> 2.	Ammonia, unionized
-> 3.	Annual Nitrate Nitrogen Discharged
-> 4.	Nitrogen, total [as N]
-> 5.	Ammonia [as N] + unionized ammonia
-> 6.	Nitrogen, ammonia total [as N]
-> 7.	Nitrite + Nitrate total [as N]
-> 8.	Nitrogen, nitrate total [as N]
-> 9.	Nitrogen, organic total [as N]
-> 10.	Nitrite Plus Nitrate Total
-> 11.	Nitrogen, Kjeldahl, total [as N]
-> 12.	Nitrogen, nitrite total [as N]
-> 13.	Nitrogen, ammonia, total [as NH3]
-> 14.	Nitrogen, ammonia total [as NH4]
+> 1. Ammonia nitrogen, total, [as N] 30 day
+> 2. Ammonia, unionized
+> 3. Annual Nitrate Nitrogen Discharged
+> 4. Nitrogen, total [as N]
+> 5. Ammonia [as N] + unionized ammonia
+> 6. Nitrogen, ammonia total [as N]
+> 7. Nitrite + Nitrate total [as N]
+> 8. Nitrogen, nitrate total [as N]
+> 9. Nitrogen, organic total [as N]
+> 10. Nitrite Plus Nitrate Total
+> 11. Phosphorus, total [as P]
+> 12. Nitrogen, Kjeldahl, total [as N]
+> 13. Phosphorous, total recoverable
+> 14. Nitrogen, nitrite total [as N]
+> 15. Urea
+> 16. Nitrogen, ammonia, total [as NH3]
+> 17. Phosphorous, in total orthophosphate
+> 18. Phosphate, ortho [as P]
+> 19. Phosphorus, dissolved
+> 20. Phosphate, ortho [as PO4]
+> 21. Nitrogen, ammonia total [as NH4]
+> 22. Phosphorus, Total
 
 *Note that for accurate comparisons across N pollutant names, the last two should be converted to [as N] by multiplying [as NH3] by 0.82 or [as NH4] by 0.77.*
 
-There are **140 permits** with observations of one of the parameters above. 
+There are **143 permits** with observations of one of the parameters above. 
 
 Observations may be in units of mg/L (concentrations) or kg/d. Observations may also be minimum, maximum or average values at different timescales. 
 
