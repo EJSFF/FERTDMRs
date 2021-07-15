@@ -6,7 +6,7 @@ I used [EPA’s Water Pollution Search tool](https://echo.epa.gov/trends/loading
 
 *Note, I could alternatively use the [Facility Search tool](https://echo.epa.gov/facilities/facility-search?mediaSelected=all) to see all facilities with these codes including ones that may not have DMR data. Also note that I pull data from preceding years associated with permits existing in 2021, but I could expand this list to permits not included in 2021 if desired.
 
-This search yeilds the following permits:
+This search yields the following permits:
 
 CATEGORY | SIC | NAICS | UNIQUE PERMITS
 ---------|-----|-------|---------------
